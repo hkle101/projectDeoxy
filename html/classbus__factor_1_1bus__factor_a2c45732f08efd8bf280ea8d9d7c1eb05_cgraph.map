@@ -1,0 +1,13 @@
+<map id="bus_factor.bus_factor.process_score" name="bus_factor.bus_factor.process_score">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,201,75"/>
+<area shape="rect" id="Node000002" href="$classbus__factor_1_1bus__factor.html#a2c2704e174e85ebe20386b571cc28430" title=" " alt="" coords="249,5,450,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,41,233,37,233,42,201,46"/>
+<area shape="rect" id="Node000003" href="$classbus__factor_1_1bus__factor.html#afacccb5cd35f9b8420db29beb4fa5bc0" title=" " alt="" coords="250,70,449,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,63,234,67,234,73,201,69"/>
+<area shape="rect" id="Node000004" href="$classbus__factor_1_1bus__factor.html#aa02442753e5f335f3353ddafec703a0b" title=" " alt="" coords="502,27,651,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="434,67,486,59,487,64,435,72"/>
+<area shape="rect" id="Node000005" href="$classbus__factor_1_1bus__factor.html#a88b89a0270ad1a662d72cd1ca8fb2f04" title=" " alt="" coords="498,91,655,147"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="435,94,483,101,482,107,434,99"/>
+<area shape="rect" id="Node000006" href="$classbus__factor_1_1bus__factor.html#a27606bf8a33e71b6bc91c41b2bfb7900" title=" " alt="" coords="703,99,853,139"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="656,116,688,116,688,122,656,122"/>
+</map>

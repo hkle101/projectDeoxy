@@ -1,0 +1,15 @@
+var searchData=
+[
+  ['macos_20linux_0',['On macOS/Linux',['../md__s_e_t_u_p.html#autotoc_md16',1,'']]],
+  ['main_1',['main',['../namespacemain.html',1,'main'],['../namespacemain.html#a3140e9a5b6a71ffbf498198cfc471b88',1,'main.main()']]],
+  ['main_2epy_2',['main.py',['../main_8py.html',1,'']]],
+  ['main_5fscript_3',['MAIN_SCRIPT',['../namespacerun.html#aa318ca595c3b4d40eb2877e123e94adf',1,'run']]],
+  ['make_20sure_20to_20read_20and_20follow_20setup_20md_20for_20instructions_4',['Make sure to read and follow &lt;a href=&quot;https://github.com/TristanG115/Team-s-Repository/blob/main/SETUP.md&quot;&gt;setup.md&lt;/a&gt; for instructions',['../md__read_me.html#autotoc_md1',1,'']]],
+  ['manually_20if_20needed_5',['7. Run checks manually (if needed)',['../md__s_e_t_u_p.html#autotoc_md22',1,'']]],
+  ['md_20for_20instructions_6',['Make sure to read and follow &lt;a href=&quot;https://github.com/TristanG115/Team-s-Repository/blob/main/SETUP.md&quot;&gt;setup.md&lt;/a&gt; for instructions',['../md__read_me.html#autotoc_md1',1,'']]],
+  ['medium_5fquality_5flicenses_7',['MEDIUM_QUALITY_LICENSES',['../namespacelicense.html#a3a8a5573ca1b0d8434688e05d77900a3',1,'license']]],
+  ['metric_8',['Metric',['../classprotocol_1_1_metric.html',1,'protocol']]],
+  ['metric_9',['metric',['../classtests_1_1test__bus__factor_1_1_test_bus_factor_metric.html#afe97b74f7df8efc5df0d0dfd3bfeefa7',1,'tests.test_bus_factor.TestBusFactorMetric.metric'],['../classtests_1_1test__code__quality_1_1_test_code_quality_metric.html#ae665fdfad24bc8993122e0de02a99f2e',1,'tests.test_code_quality.TestCodeQualityMetric.metric'],['../classtests_1_1test__dataset__and__code__score_1_1_test_dataset_and_code_metric.html#a614922178a50ea11b13a89bcc0a6a7f6',1,'tests.test_dataset_and_code_score.TestDatasetAndCodeMetric.metric'],['../classtests_1_1test__dataset__quality_1_1_test_dataset_quality_metric.html#ae2f3cfb80c957e62c58ec1ab31710d08',1,'tests.test_dataset_quality.TestDatasetQualityMetric.metric'],['../classtests_1_1test__liscense_1_1_test_license_metric.html#a737c61ccdba72c077f4f3741c2b03efd',1,'tests.test_liscense.TestLicenseMetric.metric'],['../classtests_1_1test__performance__claims_1_1_test_performance_claims.html#a5c3215b6b6aee1a5eea621470ba16864',1,'tests.test_performance_claims.TestPerformanceClaims.metric'],['../classtests_1_1test__ramp__up_1_1_test_ramp_up_time.html#a11b2c94f47aa51f991c1ea12a9a14c35',1,'tests.test_ramp_up.TestRampUpTime.metric'],['../classtests_1_1test__size_1_1_test_size_metric.html#a0f735a8ee1af76ea6cb62e2b2ecb3910',1,'tests.test_size.TestSizeMetric.metric']]],
+  ['metrics_10',['metrics',['../classscorer_1_1_scorer.html#ab135934d2bf118eaabc8e29cc0702a71',1,'scorer::Scorer']]],
+  ['ml_5fintegration_11',['ml_integration',['../classdataset__and__code_1_1_dataset_and_code_metric.html#a3c067d7caaec41625bb022b0e811d691',1,'dataset_and_code::DatasetAndCodeMetric']]]
+];

@@ -1,0 +1,13 @@
+<map id="dataset_and_code.DatasetAndCodeMetric.has_code_examples" name="dataset_and_code.DatasetAndCodeMetric.has_code_examples">
+<area shape="rect" id="Node000001" title=" " alt="" coords="495,96,672,152"/>
+<area shape="rect" id="Node000002" href="$classdataset__and__code_1_1_dataset_and_code_metric.html#ad77f2742130d2487a3ad071d5fb62757" title=" " alt="" coords="270,104,447,145"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="480,127,448,127,448,122,480,122"/>
+<area shape="rect" id="Node000003" href="$classlicense_1_1_license_metric.html#a0424866a075652494a28a0743a5432f2" title=" " alt="" coords="15,5,212,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="303,99,221,61,186,49,188,44,223,57,306,94"/>
+<area shape="rect" id="Node000004" href="$classperformance__claims_1_1_performance_claims.html#a0599888bb19bedd856b05c04a48bedce" title=" " alt="" coords="5,71,222,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="254,113,222,108,222,103,255,108"/>
+<area shape="rect" id="Node000005" href="$classprotocol_1_1_metric.html#abda61b90d17e899bf5bbdebcea70cd5c" title=" " alt="" coords="35,136,192,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="255,141,193,149,192,143,254,135"/>
+<area shape="rect" id="Node000006" href="$classsize_1_1_size_metric.html#abab88f2e1f112dde7ee4fe06204aa9c4" title=" " alt="" coords="33,201,194,242"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="304,154,223,191,187,203,186,198,221,186,302,149"/>
+</map>

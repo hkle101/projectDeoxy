@@ -1,0 +1,33 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,466,130,492"/>
+<area shape="rect" id="Node000001" href="$classtests_1_1test__bus__factor_1_1_test_bus_factor_metric.html" title=" " alt="" coords="197,5,369,46"/>
+<area shape="poly" id="edge10_Node000000_Node000001" title=" " alt="" coords="70,450,84,361,106,243,137,131,155,86,176,56,194,42,198,46,180,59,160,89,142,132,111,244,89,362,75,451"/>
+<area shape="rect" id="Node000002" href="$classtests_1_1test__cli_1_1_test_c_l_i.html" title=" " alt="" coords="210,70,356,96"/>
+<area shape="poly" id="edge11_Node000000_Node000002" title=" " alt="" coords="66,451,69,381,83,288,97,239,116,191,142,146,176,106,191,95,208,88,211,93,194,100,179,110,147,149,121,193,102,241,89,290,74,382,71,451"/>
+<area shape="rect" id="Node000003" href="$classtests_1_1test__code__quality_1_1_test_code_quality_metric.html" title=" " alt="" coords="204,120,362,161"/>
+<area shape="poly" id="edge12_Node000000_Node000003" title=" " alt="" coords="68,450,76,392,93,317,107,278,125,239,148,202,176,170,202,153,205,158,179,174,152,206,130,241,112,280,98,319,81,393,73,451"/>
+<area shape="rect" id="Node000004" href="$classtests_1_1test__dataset__and__code__score_1_1_test_dataset_and_code_metric.html" title=" " alt="" coords="184,184,382,240"/>
+<area shape="poly" id="edge13_Node000000_Node000004" title=" " alt="" coords="72,450,85,407,106,354,136,299,154,273,176,250,191,239,195,243,179,254,158,277,140,302,111,356,90,409,78,452"/>
+<area shape="rect" id="Node000005" href="$classtests_1_1test__dataset__quality_1_1_test_dataset_quality_metric.html" title=" " alt="" coords="193,264,373,320"/>
+<area shape="poly" id="edge14_Node000000_Node000005" title=" " alt="" coords="80,451,118,391,145,359,176,330,195,318,197,323,179,334,149,362,123,394,85,454"/>
+<area shape="rect" id="Node000006" href="$classtests_1_1test__liscense_1_1_test_license_metric.html" title=" " alt="" coords="203,344,363,385"/>
+<area shape="poly" id="edge15_Node000000_Node000006" title=" " alt="" coords="92,454,130,423,176,394,202,383,204,388,179,399,133,428,95,458"/>
+<area shape="rect" id="Node000007" href="$classtests_1_1test__main_1_1_test_main_c_l_i.html" title=" " alt="" coords="188,409,378,434"/>
+<area shape="poly" id="edge16_Node000000_Node000007" title=" " alt="" coords="126,459,177,444,224,433,225,438,178,450,128,464"/>
+<area shape="rect" id="Node000008" href="$classtests_1_1test__output__format_1_1_test_output_format.html" title=" " alt="" coords="199,459,366,499"/>
+<area shape="poly" id="edge17_Node000000_Node000008" title=" " alt="" coords="145,476,199,476,199,482,145,482"/>
+<area shape="rect" id="Node000009" href="$classtests_1_1test__parse__input_1_1_test_parse_input.html" title=" " alt="" coords="193,524,372,565"/>
+<area shape="poly" id="edge18_Node000000_Node000009" title=" " alt="" coords="128,494,214,521,213,526,126,499"/>
+<area shape="rect" id="Node000010" href="$classtests_1_1test__performance__claims_1_1_test_performance_claims.html" title=" " alt="" coords="178,589,388,630"/>
+<area shape="poly" id="edge19_Node000000_Node000010" title=" " alt="" coords="92,501,131,539,179,574,205,586,203,591,176,579,127,543,88,505"/>
+<area shape="rect" id="Node000011" href="$classtests_1_1test__protocol_1_1_test_protocol.html" title=" " alt="" coords="204,655,362,695"/>
+<area shape="poly" id="edge20_Node000000_Node000011" title=" " alt="" coords="82,505,119,573,147,609,179,640,205,654,202,659,176,644,143,612,115,575,78,507"/>
+<area shape="rect" id="Node000012" href="$classtests_1_1test__ramp__up_1_1_test_ramp_up_time.html" title=" " alt="" coords="184,720,382,761"/>
+<area shape="poly" id="edge21_Node000000_Node000012" title=" " alt="" coords="77,506,89,550,109,603,139,658,158,683,179,705,198,717,195,722,176,709,154,686,135,661,104,605,84,551,72,507"/>
+<area shape="rect" id="Node000013" href="$classtests_1_1test__runpy_1_1_test_run_py.html" title=" " alt="" coords="192,785,374,810"/>
+<area shape="poly" id="edge22_Node000000_Node000013" title=" " alt="" coords="73,507,81,563,99,634,113,672,130,708,152,741,179,770,197,782,194,787,176,774,148,745,126,710,108,674,94,636,76,564,68,508"/>
+<area shape="rect" id="Node000014" href="$classtests_1_1test__scorer_1_1_test_scorer.html" title=" " alt="" coords="190,834,376,860"/>
+<area shape="poly" id="edge23_Node000000_Node000014" title=" " alt="" coords="72,507,76,572,92,657,106,702,124,746,149,786,179,821,194,831,191,836,176,825,144,789,119,748,100,704,87,658,71,573,66,508"/>
+<area shape="rect" id="Node000015" href="$classtests_1_1test__size_1_1_test_size_metric.html" title=" " alt="" coords="202,884,364,925"/>
+<area shape="poly" id="edge24_Node000000_Node000015" title=" " alt="" coords="71,507,73,580,87,677,101,729,120,780,146,828,179,870,203,887,200,891,176,874,142,831,115,783,96,731,82,678,68,580,65,508"/>
+</map>

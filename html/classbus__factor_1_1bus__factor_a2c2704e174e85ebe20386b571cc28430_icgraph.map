@@ -1,0 +1,13 @@
+<map id="bus_factor.bus_factor.calculate_score" name="bus_factor.bus_factor.calculate_score">
+<area shape="rect" id="Node000001" title=" " alt="" coords="270,136,471,177"/>
+<area shape="rect" id="Node000002" href="$classbus__factor_1_1bus__factor.html#a2c45732f08efd8bf280ea8d9d7c1eb05" title=" " alt="" coords="16,5,211,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="329,129,279,94,221,61,190,49,192,44,223,57,281,90,332,124"/>
+<area shape="rect" id="Node000003" href="$classlicense_1_1_license_metric.html#a0424866a075652494a28a0743a5432f2" title=" " alt="" coords="15,71,212,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="272,134,196,115,197,109,274,129"/>
+<area shape="rect" id="Node000004" href="$classperformance__claims_1_1_performance_claims.html#a0599888bb19bedd856b05c04a48bedce" title=" " alt="" coords="5,136,222,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="254,159,222,159,222,154,254,154"/>
+<area shape="rect" id="Node000005" href="$classprotocol_1_1_metric.html#abda61b90d17e899bf5bbdebcea70cd5c" title=" " alt="" coords="35,201,192,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="273,184,193,204,192,199,272,179"/>
+<area shape="rect" id="Node000006" href="$classsize_1_1_size_metric.html#abab88f2e1f112dde7ee4fe06204aa9c4" title=" " alt="" coords="33,267,194,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="332,188,281,223,223,256,192,269,190,264,221,251,279,219,329,184"/>
+</map>

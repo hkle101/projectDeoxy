@@ -1,0 +1,9 @@
+<map id="bus_factor.bus_factor.get_data" name="bus_factor.bus_factor.get_data">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,49,205,74"/>
+<area shape="rect" id="Node000002" href="$classbus__factor_1_1bus__factor.html#aa02442753e5f335f3353ddafec703a0b" title=" " alt="" coords="257,5,406,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,46,241,37,242,43,190,51"/>
+<area shape="rect" id="Node000003" href="$classbus__factor_1_1bus__factor.html#a88b89a0270ad1a662d72cd1ca8fb2f04" title=" " alt="" coords="253,70,410,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,72,238,80,237,85,189,78"/>
+<area shape="rect" id="Node000004" href="$classbus__factor_1_1bus__factor.html#a27606bf8a33e71b6bc91c41b2bfb7900" title=" " alt="" coords="458,77,607,118"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="411,95,442,95,442,100,411,100"/>
+</map>

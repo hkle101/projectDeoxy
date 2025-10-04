@@ -1,0 +1,26 @@
+var classtests_1_1test__size_1_1_test_size_metric =
+[
+    [ "setUp", "classtests_1_1test__size_1_1_test_size_metric.html#adae919bacef54adfc1865da19cc281ea", null ],
+    [ "test_calculate_score_aws_server_limit", "classtests_1_1test__size_1_1_test_size_metric.html#a62ea708630b7e1864ebdbfe1f8b38c8f", null ],
+    [ "test_calculate_score_desktop_pc_limit", "classtests_1_1test__size_1_1_test_size_metric.html#ac74175ec0566707ed7ec772aa6ab9888", null ],
+    [ "test_calculate_score_jetson_nano_limit", "classtests_1_1test__size_1_1_test_size_metric.html#ae7d6db4f7cb07c142758f01c4b9a7bff", null ],
+    [ "test_calculate_score_medium_model", "classtests_1_1test__size_1_1_test_size_metric.html#a3e27856d94cc1ca4110d13d6cffae4d2", null ],
+    [ "test_calculate_score_oversized_model", "classtests_1_1test__size_1_1_test_size_metric.html#acea98121a04e52cde3cd46fa94613d8f", null ],
+    [ "test_calculate_score_raspberry_pi_limit", "classtests_1_1test__size_1_1_test_size_metric.html#aca85a25d43375a6b8ecb96d669507289", null ],
+    [ "test_calculate_score_very_small_model", "classtests_1_1test__size_1_1_test_size_metric.html#ae36c977f1ebbe5b32f665d39b7687078", null ],
+    [ "test_calculate_score_zero_size", "classtests_1_1test__size_1_1_test_size_metric.html#aabc91768ebe95f6f0970937033ab42ad", null ],
+    [ "test_device_thresholds_coverage", "classtests_1_1test__size_1_1_test_size_metric.html#abda69edd91ee678e01717ffb3270ba39", null ],
+    [ "test_get_data_missing_size", "classtests_1_1test__size_1_1_test_size_metric.html#af547a6073347a285a55d2c15599fd663", null ],
+    [ "test_get_data_with_model_size", "classtests_1_1test__size_1_1_test_size_metric.html#a45400b0938359cb76c2a40d851ca498f", null ],
+    [ "test_get_data_zero_size", "classtests_1_1test__size_1_1_test_size_metric.html#a54602b13055d9977cfc6d05ea63006b8", null ],
+    [ "test_get_latency", "classtests_1_1test__size_1_1_test_size_metric.html#a3106cbec8b5f10e26b03e8a53076b999", null ],
+    [ "test_get_score", "classtests_1_1test__size_1_1_test_size_metric.html#a9c4d585b55d227a0f70f3d94ff5fa5d0", null ],
+    [ "test_get_size_score", "classtests_1_1test__size_1_1_test_size_metric.html#aacdecc78558998c6fee408e4080e06f9", null ],
+    [ "test_initialization", "classtests_1_1test__size_1_1_test_size_metric.html#a340b4093489bedf09c581dadf728de41", null ],
+    [ "test_negative_size_handling", "classtests_1_1test__size_1_1_test_size_metric.html#a53ba85ec1ca556ced22d370cf82cbe45", null ],
+    [ "test_overall_score_calculation", "classtests_1_1test__size_1_1_test_size_metric.html#abae30a0c82fe5e19f10491730298b83b", null ],
+    [ "test_process_score_integration", "classtests_1_1test__size_1_1_test_size_metric.html#ab4024945ae6011d21a074f37d003b66c", null ],
+    [ "test_score_ranges", "classtests_1_1test__size_1_1_test_size_metric.html#aa483b5ce3e2a0bb5e7b7dbdb7242eddf", null ],
+    [ "test_score_rounding", "classtests_1_1test__size_1_1_test_size_metric.html#a186418f458a7f8404ec98f407f3f8ed8", null ],
+    [ "metric", "classtests_1_1test__size_1_1_test_size_metric.html#a0f735a8ee1af76ea6cb62e2b2ecb3910", null ]
+];

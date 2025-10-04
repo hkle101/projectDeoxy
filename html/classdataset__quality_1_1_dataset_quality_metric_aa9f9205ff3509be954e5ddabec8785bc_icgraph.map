@@ -1,0 +1,13 @@
+<map id="dataset_quality.DatasetQualityMetric._calculate_heuristic_score" name="dataset_quality.DatasetQualityMetric._calculate_heuristic_score">
+<area shape="rect" id="Node000001" title=" " alt="" coords="516,104,731,145"/>
+<area shape="rect" id="Node000002" href="$classdataset__quality_1_1_dataset_quality_metric.html#a17f988042cb78d4f0f95e320f095eb6b" title=" " alt="" coords="270,104,468,145"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="500,127,468,127,468,122,500,122"/>
+<area shape="rect" id="Node000003" href="$classlicense_1_1_license_metric.html#a0424866a075652494a28a0743a5432f2" title=" " alt="" coords="15,5,212,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="310,100,221,61,185,49,187,44,223,57,312,95"/>
+<area shape="rect" id="Node000004" href="$classperformance__claims_1_1_performance_claims.html#a0599888bb19bedd856b05c04a48bedce" title=" " alt="" coords="5,71,222,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="254,112,222,108,223,103,255,107"/>
+<area shape="rect" id="Node000005" href="$classprotocol_1_1_metric.html#abda61b90d17e899bf5bbdebcea70cd5c" title=" " alt="" coords="35,136,192,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="254,141,193,149,192,144,254,136"/>
+<area shape="rect" id="Node000006" href="$classsize_1_1_size_metric.html#abab88f2e1f112dde7ee4fe06204aa9c4" title=" " alt="" coords="33,201,194,242"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="311,154,223,191,187,203,185,198,221,186,309,149"/>
+</map>
